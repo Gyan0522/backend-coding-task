@@ -46,3 +46,7 @@ GET
    2. http://localhost:8080/v1/customer/balance?customerId=1
 
 
+
+Link to Swagger UI
+
+### http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
